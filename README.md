@@ -1,5 +1,5 @@
 # MCRTsim-fork
-##"This repository is for updating the developing environment for laboratory use."
+## This repository is for updating the developing environment for laboratory use.
 
 ### Developing History
 2/28 modified NetBean project to Eclipse Maven Project.
