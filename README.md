@@ -1,10 +1,15 @@
 # MCRTsim-fork
 ## This repository is for updating the developing environment for laboratory use.
 
-### Developing History
+# MCRTsim
 
-Year 2024
+This repository is part of my National Science Council Research Scholarship project in Taiwan.
 
-2/28 modified NetBean project to Eclipse Maven Project.
+Currently, I am assisting in organizing the JavaDoc for the previous system.
 
-2/29~3/4 Searching environment to transform old version JDK8 to JDK21.(Netbean IDE to Eclipse)
+After completing the JavaDoc, I will begin developing the criticality model for real-time systems.
+
+MCRTsim is an open-source simulation toolkit for real-time task scheduling and synchronization on multicore processors.
+
+Website: http://resl.csie.nptu.edu.tw/mcrtsim
+
