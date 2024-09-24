@@ -1,8 +1,5 @@
 # MCRTsim-fork
-## This repository is for updating the developing environment for laboratory use.
-
-# MCRTsim
-
+### MCRTsim
 This repository is part of my National Science Council Research Scholarship project in Taiwan.
 
 Currently, I am assisting in organizing the JavaDoc for the previous system.
