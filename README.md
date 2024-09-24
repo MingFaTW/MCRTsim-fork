@@ -8,5 +8,7 @@ After completing the JavaDoc, I will begin developing the criticality model for 
 
 MCRTsim is an open-source simulation toolkit for real-time task scheduling and synchronization on multicore processors.
 
+Bascially write the JavaDoc on another branch.
+
 Website: http://resl.csie.nptu.edu.tw/mcrtsim
 
