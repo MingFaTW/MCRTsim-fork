@@ -2,15 +2,16 @@
 ### MCRTsim
 This repository is part of my National Science Council Research Scholarship project in Taiwan.
 
-Currently, I am assisting in organizing the JavaDoc for the previous system MCRTsim.
+I am currently working on organizing the JavaDoc for the original MCRTsim system.
+After completing the JavaDoc, I will begin developing a criticality model for real-time systems.
 
-After completing the JavaDoc, I will begin developing the criticality model for real-time systems.
+The new system will be named <em>SimArt</em> (A Simulation Environment for Mixed-Criticality Real-Time Task Scheduling Algorithms).
 
-The name of the new systems will named SimArt.
+<img width="472" alt="截圖 2024-09-20 凌晨12 50 11" src="https://github.com/user-attachments/assets/4d24749c-14ae-431b-a7d2-24e501b965a1">
 
 MCRTsim is an open-source simulation toolkit for real-time task scheduling and synchronization on multicore processors.
 
-Bascially write the JavaDoc on MCRT-fork branch.
+I am primarily working on the JavaDoc in the MCRT-fork branch.
 
-Website: http://resl.csie.nptu.edu.tw/mcrtsim
+Original repository Website: http://resl.csie.nptu.edu.tw/mcrtsim
 
